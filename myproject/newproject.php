@@ -73,7 +73,7 @@ if(mysqli_query($conn, $sql)){
 
 
 
-            <h2> FOOTBALL REGISTRATION </h2>
+            <h2> FOOTBALL REGISTRATIONS </h2>
 <form action="<?php $_php_self ?>" method="post">
 NAME:      <input type ="text"> <name ="name"><br>
 <span class="error">* <?php echo $nameErr;?></span><br>
