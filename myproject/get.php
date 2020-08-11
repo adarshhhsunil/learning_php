@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>  
 <body>
-
+<p>Hello</p>
 <form action="welcome_get.php" method="get">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
